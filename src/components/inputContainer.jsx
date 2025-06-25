@@ -30,7 +30,7 @@ function InputContainer({
           onChange={(e) =>
             onAmountChange && onAmountChange(Number(e.target.value))
           }
-          placeholder="Enter Amount"
+          placeholder="Amount"
           className="text-3xl font-semibold text-gray-800 placeholder-gray-600 bg-transparent p1 focus:outline-none  w-[75%]"
         />
       </div>

@@ -27,7 +27,9 @@
 - **Tailwind CSS** for styling
 - **Lucide React Icons**
 - **Custom React Hooks**
-- Live exchange rate API (like [ExchangeRate API](https://www.exchangerate-api.com/))
+- **Currency Data** from:  
+  [`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/{from}.json`](https://github.com/fawazahmed0/currency-api)
+
 
 ---
 
