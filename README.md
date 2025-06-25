@@ -17,7 +17,7 @@
 
 ## 📸 Preview
 
-![Convertly App Preview](https://via.placeholder.com/600x300?text=Convertly+App+Preview)
+![Convertly App Preview](https://github.com/Dev-Yadnesh8/Convertly/blob/main/convertly.png?raw=true)
 
 ---
 
